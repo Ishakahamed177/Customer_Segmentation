@@ -18,7 +18,7 @@ To segment customers into different groups using K-Means Clustering and analyze 
 - Matplotlib
 - Scikit-learn
 - Power BI
-- 
+
 ## 📷 Dashboard Preview
 
 Dashboard<img width="1034" height="690" alt="Screenshot 2026-06-03 113712" src="https://github.com/user-attachments/assets/64a0773d-3515-42d3-a39c-182060ab3f69" />
