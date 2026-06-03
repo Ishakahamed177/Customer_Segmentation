@@ -21,7 +21,9 @@ To segment customers into different groups using K-Means Clustering and analyze 
 
 ## 📷 Dashboard Preview
 
-Dashboard<"C:\Users\makbu\Desktop\Thiranex intern\Task 2\Screenshot\Screenshot 2026-06-03 113712.png">
+## 📷 Dashboard Preview
+
+Dashboard<img width="1013" height="807" alt="Dashboard" src="C:\Users\makbu\Desktop\Thiranex intern\Task 2\Screenshot\Screenshot 2026-06-03 113712.png" />
 
 ## 📂 Dataset Features
 
